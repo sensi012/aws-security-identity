@@ -22,4 +22,4 @@ intern2026
 
 - Screenshot are in the directory.
 
-#####*_Adepegba Isaiah_*
+*_Adepegba Isaiah_*
