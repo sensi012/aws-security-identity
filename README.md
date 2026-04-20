@@ -16,7 +16,7 @@ intern2026
 
 ### Used the poicy simulator to test the Policies
 
-- Intern-ade can view the *prod-object S3 bucket, he cannot alter it, while he can view, delete object, delete the bucket of the dev-env-object.
+- Intern-ade can view the prod-object S3 bucket, he cannot alter it, while he can view, delete object, delete the bucket of the dev-env-object.
 
 - Intern-ade cannot create a bucket.
 
