@@ -3,20 +3,21 @@
 ## Steps taken
 
 #### Created two S3 buckets 
-*prod-object* and *dev-env-object*
+prod-object and dev-env-object
 
 #### Created IAM user 
-*intern-ade* 
+intern-ade
 
 #### Created a policy called 
-*intern-policy*,_prod-object_: `list only policy`; _dev-env-object_ `delete bucket,delete object and list bucket policy`.
+intern-policy, prod-object: `list only policy`; _
+dev-env-object `delete bucket,delete object and list bucket policy`.
 
 #### Created a IAM user group namely, 
-*intern2026*
+intern2026
 
 ### Used the poicy simulator to test the Policies
 
-- Intern-ade can view the *prod-object S3 bucket, he cannot alter it, while he can view, delete object, delete the bucket of the dev-env-object.
+- Intern-ade can view the prod-object S3 bucket, he cannot alter it, while he can view, delete object, delete the bucket of the dev-env-object.
 
 - Intern-ade cannot create a bucket.
 
